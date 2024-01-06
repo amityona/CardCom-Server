@@ -3,3 +3,7 @@ To Run The Web Service use :
 2) dotnet ef migrations add InitialCreate
 3) dotnet ef database update
 
+Check out this video demonstration:
+
+[![Video Demo](https://img.youtube.com/vi/CPKXnBkBqFo/0.jpg)](https://www.youtube.com/watch?v=CPKXnBkBqFo)
+
